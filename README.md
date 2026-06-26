@@ -80,19 +80,19 @@ Aplikasi ini dikembangkan sebagai tugas besar/UAS mata kuliah Mobile Programming
 
 ### Halaman Data Tamu
 
-![Guest Screen](screenshots/guest.png)
+![Guest Screen](screenshots/guest.jpeg)
 
 ### Halaman Data Keperluan
 
-![Purpose Screen](screenshots/purpose.png)
+![Purpose Screen](screenshots/purpose.jpeg)
 
 ### Halaman Form Kunjungan
 
-![Visit Screen](screenshots/visit.png)
+![Visit Screen](screenshots/visit.jpeg)
 
 ### Halaman Laporan Kunjungan
 
-![Report Screen](screenshots/report.png)
+![Report Screen](screenshots/report.jpeg)
 
 ## Author
 
