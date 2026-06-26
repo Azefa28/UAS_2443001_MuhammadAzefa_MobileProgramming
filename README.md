@@ -80,19 +80,19 @@ Aplikasi ini dikembangkan sebagai tugas besar/UAS mata kuliah Mobile Programming
 
 ### Halaman Data Tamu
 
-![Guest Screen](screenshots/WhatsApp%20Image%202026-06-27%20at%201.11.55%20AM.jpeg)
+![Guest Screen](screenshots/guest.png)
 
 ### Halaman Data Keperluan
 
-![Purpose Screen](screenshots/WhatsApp%20Image%202026-06-27%20at%201.11.55%20AM%20(1).jpeg)
+![Purpose Screen](screenshots/purpose.png)
 
 ### Halaman Form Kunjungan
 
-![Visit Screen](screenshots/WhatsApp%20Image%202026-06-27%20at%201.11.55%20AM%20(2).jpeg)
+![Visit Screen](screenshots/visit.png)
 
 ### Halaman Laporan Kunjungan
 
-![Report Screen](screenshots/WhatsApp%20Image%202026-06-27%20at%201.11.55%20AM%20(3).jpeg)
+![Report Screen](screenshots/report.png)
 
 ## Author
 
